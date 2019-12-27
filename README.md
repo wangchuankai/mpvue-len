@@ -1,2 +1,2 @@
 # mpvue-len
-练习mpvue1
+练习mpvue
